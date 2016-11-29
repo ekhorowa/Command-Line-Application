@@ -1,0 +1,22 @@
+{
+  "name": "project4",
+  "version": "1.0.0",
+  "description": "\"# Command-Line-Application\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekhorowa/Command-Line-Application.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ekhorowa/Command-Line-Application/issues"
+  },
+  "homepage": "https://github.com/ekhorowa/Command-Line-Application#readme",
+  "dependencies": {
+    "superagent": "^3.1.0"
+  }
+}
